@@ -1,6 +1,8 @@
 # analisis-interes-nte
 Análisis de Interés en el NTE  Dashboard en Tableau sobre tendencias del NTE. Diseñado con paleta accesible para daltónicos.  👉 https://public.tableau.com/app/profile/samuel.da.silva.jordan/viz/InteresporpaisesNTENevernesstoEverness/Mapainteresporpaises
 
+Se uso Bigquery para el analisis y limpieza de los datos y tableau para el mapa y el grafico
+
 Top de interés por países: Los mayores picos de volumen de búsquedas e interés se concentran principalmente en Asia-Pacífico (liderado por Corea del Sur y Taiwan) y en Norteamérica (Estados Unidos y Argentina).
 
 Distribución en Europa: Presenta una presencia sólida y constante en varios mercados clave europeos, destacando países como Bielorrusia, Hungria y Alemania con un volumen medio-alto de seguimiento.
